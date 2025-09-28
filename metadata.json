@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Thumbnail Movile Previewer",
+  "description": "An application to preview how a YouTube thumbnail will appear on the mobile app's video list. Upload a thumbnail, edit the video details, and see a live, realistic simulation.",
+  "requestFramePermissions": []
+}
